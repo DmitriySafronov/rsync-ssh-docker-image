@@ -9,4 +9,5 @@ RUN apk update \
  && apk add --no-cache \
             rsync \
             openssh-client \
+            bash \
  && rm -rf /var/cache/apk/*
