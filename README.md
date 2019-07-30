@@ -1,4 +1,4 @@
-Rsync + SSH Docker Image
+Rsync + SSH + Bash Docker Image
 ========================
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/instrumentisto/rsync-ssh.svg)](https://hub.docker.com/r/instrumentisto/rsync-ssh) [![Based on](https://img.shields.io/badge/based%20on-alpine-blue.svg)][12] [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/instrumentisto/rsync-ssh-docker-image/blob/master/LICENSE.md)
